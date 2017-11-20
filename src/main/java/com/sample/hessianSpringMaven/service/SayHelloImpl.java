@@ -1,12 +1,9 @@
 package com.sample.hessianSpringMaven.service;
 
-import org.springframework.stereotype.Service;
-
 /**
  * @author LW  
  * @date 2017年9月12日
  */
-@Service("sayHelloImpl")
 public class SayHelloImpl implements SayHello {
 
 	@Override
