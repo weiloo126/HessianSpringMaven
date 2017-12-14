@@ -1,7 +1,7 @@
 package com.sample.hessianSpringMaven.service;
 
 /**
- * @author LW  
+ *
  * @date 2017年9月12日
  */
 public class SayHelloImpl implements SayHello {

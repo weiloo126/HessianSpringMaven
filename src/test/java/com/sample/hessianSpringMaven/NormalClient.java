@@ -6,7 +6,7 @@ import com.sample.hessianSpringMaven.service.SayHello;
 
 
 /**
- * @author LW  
+ * 
  * @date 2017年9月12日
  */
 public class NormalClient {
